@@ -1,0 +1,11 @@
+.maincontainer{
+background-color: beige;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+#box2{
+     display: flex;
+     flex-direction: column;
+     align-content: end;
+}
